@@ -6,7 +6,7 @@
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "streamer.h"
+#include "/home/hp/raytrace/py_raytr_threaded/streamer.h"
 
 /*
  * A definition of a streamer.
