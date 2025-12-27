@@ -2,4 +2,4 @@ Frequency (Hz): 1e+08
 Frequency (MHz): 100.00
 Critical density (cm^-3): 1.235e+08
 Ray indices: [[2, 5], [3, 3], [4, 4]]
-Tracked parameters: ['bfield', 'arclen', 'rho', 'Stokes']
+Tracked parameters: ['bfield', 'arclen', 'rho', 'Stokes', 'TbrIQUV']
